@@ -49,6 +49,23 @@
 // }
 // console.log(j);
 
+// let j=0;
+// let i=0;
+// while(i < 100){
+//   i++;
+//   j+=i;
+// }
+// console.log(j);
+
+// let j=0;
+// let i=0;
+// do{
+//   i++;
+//   j+=i;
+// } while(i < 100);
+// console.log(j);
+
+
 
 // FOURTH TASK
 
@@ -59,3 +76,8 @@
 //     break;
 //   }
 // }
+
+// let answer;
+// for(answer; answer !== (2 + 2 * 2); answer = +prompt('2 + 2 * 2 = ')){
+// }
+
