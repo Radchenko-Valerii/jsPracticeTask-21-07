@@ -5,8 +5,17 @@
 //   console.log(i);
 // }
 
+// let i = 26;
+// while(i > 0){
+//   i--;
+//   console.log(i);
+// }
 
-
+// let i = 26;
+// do {
+//   i--;
+//   console.log(i);
+// } while (i>0)
 
 // SECOND TASK
 
@@ -15,6 +24,21 @@
 //     console.log(i);
 //   }
 // }
+
+// let i=9;
+// while(i < 50){
+//   i++
+//   if(i%5 === 0){
+//     console.log(i);
+//   }
+// }
+
+// let i=9;
+// do {
+//   i++
+//   if(i%5 === 0){
+//     console.log(i);
+//   }} while(i < 50)
 
 
 // THIRD TASK
