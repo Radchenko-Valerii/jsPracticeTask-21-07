@@ -78,6 +78,14 @@
 // }
 
 // let answer;
+// do{
+//   answer = +prompt('2 + 2 * 2 = ');
+//   if(answer === (2 + 2 * 2)){
+//     break;
+//   } 
+// }while(answer !== (2 + 2 * 2));
+
+// let answer;
 // for(answer; answer !== (2 + 2 * 2); answer = +prompt('2 + 2 * 2 = ')){
 // }
 
