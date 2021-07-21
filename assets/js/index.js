@@ -22,3 +22,14 @@
 //   j +=i;
 // }
 // console.log(j);
+
+
+// FOURTH TASK
+
+// let answer;
+// while(answer !== 6){
+//   answer = +prompt('2 + 2 * 2 = ');
+//   if(answer === 6){
+//     break;
+//   }
+// }
