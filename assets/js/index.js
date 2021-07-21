@@ -6,6 +6,8 @@
 // }
 
 
+
+
 // SECOND TASK
 
 // for(let i=10; i <= 50; i++){
@@ -27,9 +29,9 @@
 // FOURTH TASK
 
 // let answer;
-// while(answer !== 6){
+// while(answer !== (2 + 2 * 2)){
 //   answer = +prompt('2 + 2 * 2 = ');
-//   if(answer === 6){
+//   if(answer === (2 + 2 * 2)){
 //     break;
 //   }
 // }
